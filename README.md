@@ -14,15 +14,15 @@ Este projeto utiliza Docker para criar um ambiente que executa um servidor Nginx
   
 ## Estrutura do Projeto📁
 
-/
-|- /scripts 🧰
-   |- Dockerfile 📄
-   |- ngrok.conf 🛠️
-   |- start.sh 🚀
-   |- /Meu-Site 🌐
-      |- index.html 📄 (opcional)
-      |- style.css 🎨 (opcional)
-      |- imagem-de-fundo.jpg 🖼️ (opcional)
+- /
+- |- /scripts 🧰
+-   |- Dockerfile 📄
+-   |- ngrok.conf 🛠️
+-   |- start.sh 🚀
+-   |- /Meu-Site 🌐
+-      |- index.html 📄 (opcional)
+-     |- style.css 🎨 (opcional)
+-      |- imagem-de-fundo.jpg 🖼️ (opcional)
 
 
 
