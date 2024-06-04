@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Adicionar o authtoken do Ngrok
-ngrok authtoken 2H9mmTbZR2kfK8brcVbTvlzw4qm_42cy7zFS5pKoLKpczZ4vK
+ngrok authtoken {---}
 
 # Iniciar Nginx
 service nginx start
